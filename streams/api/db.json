@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Great one!",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "Great one!",
+      "id": 2
+    },
+    {
+      "title": "My",
+      "description": "One",
+      "id": 3
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "Watch me refactor some components. USEE",
+      "id": 7
+    },
+    {
+      "title": "Oyun",
+      "description": "Counter Strike",
+      "userId": "113766772803733447955",
+      "id": 8
+    },
+    {
+      "title": "28 Sene",
+      "description": "Games",
+      "userId": "113766772803733447955",
+      "id": 9
+    }
+  ]
+}
